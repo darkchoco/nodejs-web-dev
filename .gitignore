@@ -145,4 +145,7 @@ dist
 
 # etc
 .idea/
-_src
+_src/
+_excluded/
+*Token*.json
+README.template.md
